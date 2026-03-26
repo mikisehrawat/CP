@@ -181,6 +181,10 @@ vl arrayBitConverter(vl arr){
     }
 }
 
+bool cmp(ll a,ll b){
+    return a<b;
+}
+
 void solve(){
 
 }
